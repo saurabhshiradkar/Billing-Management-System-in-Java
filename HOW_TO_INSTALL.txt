@@ -1,0 +1,16 @@
+#####Steps to install Software###
+Step 1 :-    Copy the following URL and paste it into Your browser 
+	and download the file from google drive.
+
+	https://drive.google.com/uc?export=download&id=1Y0sKhLsw848y1QtgCyAo5Gw6qH9Gcfmg 
+	
+Step 2 :- Right Click on "Setup.exe"
+Step 3:- Select "Run as Administrator"
+Step 4:- Follow the Instructions.
+
+Note:-
+             If You donot Want to Run as Administrator
+             then, You have to change the install location 
+             from "C:" drive to any other Drive at the time of 
+             installation.
+
